@@ -10,7 +10,7 @@ This application, developed with Python and LangChain, leverages the Retriever-A
 - **Question Answering**: Utilize local LLMs to pose questions to and receive answers based on the document embeddings.
 
 ## Requirements
-- Python 3.8+
+- Python 3.9.18
 - LangChain
 - Ollama LLMs (gemma:2b, llama2, mistral)
 - Any additional Python libraries as specified in `requirements.txt`.

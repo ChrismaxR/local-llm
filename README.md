@@ -52,3 +52,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 - The developers of Python and LangChain for their invaluable tools.
 - Ollama for providing access to cutting-edge local LLMs.
+- Santiago Valdarrama's video's on buidling RAG applications and using open-sourced models (https://youtu.be/BrsocJb-fAo and https://youtu.be/HRvyei7vFSM). See also Santiago's github page: https://github.com/svpino
+- Thu Vu inspired me to check out Local LLM's: https://github.com/thu-vu92 and https://youtu.be/h_GTxRFYETY?si=biEUfjGNLtNqixWM
